@@ -498,7 +498,7 @@ Lists Page : Poems & Recipes
 .lists-page div {
   border: 3px solid var(--green-dark);
   background-color: var(--grey-100);
-  width: 500px;
+  width: 750px;
   padding: 20px;
   margin: 20px;
 }
